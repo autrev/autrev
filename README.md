@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @autrev (Oğuzhan TOPAK)
+- 👋 Hi, I’m @autrev 
 - 👀 I’m interested in C# , C++ , VB.net , JS , CSS , PYTHON
 - 🌱 I’m currently learning CSS , C++
 - 📫 smntpkyt@gmail.com
@@ -7,5 +7,5 @@
 - 
 - I'm currently developing;
 - 🎮-Game library management app
-- 🧑‍⚕️-Cancer detection dataset's universal management GUI
+- 🧑‍⚕️-Cancer detection dataset's universal management GUI (Eliminated in the competition organized by TUBITAK)
 - 🎵-Spotify ad-blocker
